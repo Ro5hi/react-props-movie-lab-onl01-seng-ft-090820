@@ -13,7 +13,7 @@ export default class MovieShowcase extends Component {
     this.generateMovieCards();
     return (
       <div id="movie-showcase">
-        <h1>hello</h1>
+        <p>hello</p>
       </div>
     )
   }
