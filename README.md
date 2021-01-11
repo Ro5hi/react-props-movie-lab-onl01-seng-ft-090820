@@ -16,7 +16,7 @@ blowing up our visitors' computers
 
 Following is the component tree. When fully rendered, there are **9**
 `MovieCards` rendered by `MovieShowcase`:
-
+        {/* this.generateMovieCards() */}
 ```text
 └── MovieShowcase
     │
