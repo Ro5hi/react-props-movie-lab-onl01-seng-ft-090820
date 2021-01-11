@@ -12,7 +12,7 @@ export default class MovieShowcase extends Component {
   render() {
     return (
       <div id="movie-showcase">
-
+        <h1>hello</h1>
       </div>
     )
   }
